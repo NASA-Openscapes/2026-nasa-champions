@@ -24,7 +24,7 @@ Folder](https://drive.google.com/drive/u/0/folders/1cgInoxHQXjysuwOjKL-OifdujIpi
 google-docing. Please see <https://openscapes.github.io/series/> to view blank versions
 of the agendas.
 
-| Cohort Call Topics | Lesson Series Chapters | Seaside Chat Topics |
+| Cohort Call Topics | Lesson Series Chapters | Reflections Topics |
 |--------------------|------------------------|---------------------|
 | 1\. Openscapes mindset | [mindset](https://openscapes.github.io/series/mindset), [better science for future us](https://openscapes.github.io/series/core-lessons/better-science) | [Seaside Chat](https://openscapes.github.io/series/what-to-expect.html#seaside-chats-coworking) (trailhead) |
 | 2\. GitHub for publishing & project management | [publishing](https://openscapes.github.io/series/github-pub), [project management](https://openscapes.github.io/series/github-issues) | Seaside Chat (shared organizing with GitHub) |
