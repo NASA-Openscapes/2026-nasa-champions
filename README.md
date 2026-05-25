@@ -24,12 +24,12 @@ Folder](https://drive.google.com/drive/u/0/folders/1cgInoxHQXjysuwOjKL-OifdujIpi
 google-docing. Please see <https://openscapes.github.io/series/> to view blank versions
 of the agendas.
 
-| Cohort Call Topics | Lesson Series Chapters | 
-|--------------------|------------------------|
-| 1\. Openscapes mindset | [mindset](https://openscapes.github.io/series/mindset), [better science for future us](https://openscapes.github.io/series/core-lessons/better-science) | 
-| 2\. GitHub for publishing & project management | [publishing](https://openscapes.github.io/series/github-pub), [project management](https://openscapes.github.io/series/github-issues) | 
-| 3\. Team culture, and Documenting with Notebooks | [team culture](https://openscapes.github.io/series/team-culture), documenting with notebooks | 
-| 4\. Metadata for Suborbital, and Pathways |  metadata for suborbital, [Pathways](https://openscapes.github.io/series/pathways.html) |  
+| Cohort Call Topics | Lesson Series Chapters | Reflections Prompts |
+|--------------------|------------------------|---------------------|
+| 1\. Openscapes mindset | [mindset](https://openscapes.github.io/series/mindset), [better science for future us](https://openscapes.github.io/series/core-lessons/better-science) | [week 1](https://openscapes.github.io/booklet/reflect.html) |
+| 2\. GitHub for publishing & project management | [publishing](https://openscapes.github.io/series/github-pub), [project management](https://openscapes.github.io/series/github-issues) |  [week 2](https://openscapes.github.io/booklet/reimagine.html) |
+| 3\. Team culture, and Documenting with Notebooks | [team culture](https://openscapes.github.io/series/team-culture), documenting with notebooks |  [week 3](https://openscapes.github.io/booklet/goals.html) |
+| 4\. Metadata for Suborbital, and Pathways |  metadata for suborbital, [pathways](https://openscapes.github.io/series/pathways.html) |  |
 
 <!---TODO: link to issues labeled 'digest'. 
 Note result will be empty until after first call digest is posted.
