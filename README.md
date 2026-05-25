@@ -15,7 +15,7 @@ Series](https://openscapes.github.io/series).
 
 We will meet as a Cohort via Zoom four times over one month for 1.5 hours each:
 
--   **Dates:** June 3, 10, 17, 24
+-   **Dates:** Wednesdays, June 3, 10, 17, 24
 -   **Times:** 10:00 - 11:30 PT
 -   **Location:** remotely, via Zoom
 
