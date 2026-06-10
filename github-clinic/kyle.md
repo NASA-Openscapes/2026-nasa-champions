@@ -47,3 +47,6 @@ Your turn! Change or add something in Markdown and make another commit: write a 
 It's a lot to get familiar with markdown if you haven't used it previously! 
 
 EDITING EDITING
+
+<img width="1200" height="1200" alt="1200px-City_College_of_New_York_seal svg" src="https://github.com/user-attachments/assets/07dc70e1-a900-45a6-b875-f7e93ce0ffd2" />
+
