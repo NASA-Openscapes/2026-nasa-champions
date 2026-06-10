@@ -45,3 +45,9 @@ Your turn! Change or add something in Markdown and make another commit: write a 
 ## NOTES
 
 It's a lot to get familiar with markdown if you haven't used it previously! 
+
+## New edits for practicing
+
+> This is a sentence to test *indented* quote
+
+
