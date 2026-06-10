@@ -12,7 +12,7 @@ Finally, we will commit these edits to GitHub. To do this, press the green "Comm
 
 Note: In the browser, GitHub will suggest "Update file.md" as the commit message. But you can be more descriptive - practice writing commit messages that help you remember detail about what you changed.
 
-This is an edit!! 
+This is an edit!!  This is another edit. 
 
 ## Task 2: Practice Markdown 
 
