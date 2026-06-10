@@ -9,8 +9,7 @@ Let's edit this file by clicking the pencil icon at the top-right of the file.
 <<<<<<< HEAD
 Next, make an edit to the text in this file. One idea is to fix this tpyo. Now it is fixed.
 =======
-Next, make an edit to the text in this file. One idea is to fix this tpyo. 
->>>>>>> 922d678 (add nathan)
+Next, make an edit to the text in this file. One idea is to fix this typo. 
 
 Finally, we will commit these edits to GitHub. To do this, press the green "Commit Changes..." button. Committing changes has two steps: write a human-readable Commit message, and press the green button to commit changes. 
 
