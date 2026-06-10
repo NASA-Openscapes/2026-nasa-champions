@@ -26,7 +26,7 @@ We can make lists – *note that lists need an empty line before list items!*
 
 1. bananas
 2. tamales
-3. cakes
+3. **cakes**
 
 We can make hyperlinks in [Markdown](https://quarto.org/docs/authoring/markdown-basics.html) using the `[]()` pattern: you put words to hyperlink in `[]` and the URL in `()`. For example:
 
@@ -45,3 +45,4 @@ Your turn! Change or add something in Markdown and make another commit: write a 
 ## NOTES
 
 It's a lot to get familiar with markdown if you haven't used it previously! 
+it's **June** *2026* 
