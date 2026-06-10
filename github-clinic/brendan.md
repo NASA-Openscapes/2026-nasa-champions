@@ -28,6 +28,10 @@ We can make lists – *note that lists need an empty line before list items!*
 1. bananas
 2. tamales
 3. cakes
+Adding a list of things to do:
+1. Check on status of document
+2. Edit as appropriate
+3. Save and rename.
 
 We can make hyperlinks in [Markdown](https://quarto.org/docs/authoring/markdown-basics.html) using the `[]()` pattern: you put words to hyperlink in `[]` and the URL in `()`. For example:
 
