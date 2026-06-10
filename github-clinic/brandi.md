@@ -59,4 +59,4 @@ Unordered list:
 * item a
 * item b
 
-[Here's a link to OpenSteetMap](www.openstreetmap.org)
+[Here's a link to OpenSteetMap](https://www.openstreetmap.org)
