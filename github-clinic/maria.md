@@ -22,7 +22,7 @@ We can make words **bold** or *italic*.
 
 ### We can make headers.
 
-We can make lists – *note that lists need an empty line before list items!*
+We can make **lists** – *note that lists need an empty line before list items!*
 
 1. bananas
 2. tamales
