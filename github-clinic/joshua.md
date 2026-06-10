@@ -46,3 +46,6 @@ Your turn! Change or add something in Markdown and make another commit: write a 
 ## NOTES
 
 It's a lot to get familiar with markdown if you haven't used it previously! 
+
+## Let's add some content 
+![AVIRIS-NG image address](https://avirisng.jpl.nasa.gov/img/AVIRIS-NG_spectroscopy_overview_image.png)
