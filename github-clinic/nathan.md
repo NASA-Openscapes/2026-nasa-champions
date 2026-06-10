@@ -6,7 +6,11 @@ Working on GitHub.com, we contribute changes through **commits**. You'll practic
 
 Let's edit this file by clicking the pencil icon at the top-right of the file. 
 
+<<<<<<< HEAD
 Next, make an edit to the text in this file. One idea is to fix this tpyo. Now it is fixed.
+=======
+Next, make an edit to the text in this file. One idea is to fix this tpyo. 
+>>>>>>> 922d678 (add nathan)
 
 Finally, we will commit these edits to GitHub. To do this, press the green "Commit Changes..." button. Committing changes has two steps: write a human-readable Commit message, and press the green button to commit changes. 
 
@@ -14,9 +18,15 @@ Note: In the browser, GitHub will suggest "Update file.md" as the commit message
 
 ## Task 2: Practice Markdown 
 
+<<<<<<< HEAD
 * Now let's practice Markdown and commit another edit to this file. 
 
   + This file is written in Markdown, which formats text on the web. To see the Markdown that results in the following formatting, click the pencil icon to edit, or click 'Raw' to inspect it. For example, with Markdown:
+=======
+Now let's practice Markdown and commit another edit to this file. 
+
+This file is written in Markdown, which formats text on the web. To see the Markdown that results in the following formatting, click the pencil icon to edit, or click 'Raw' to inspect it. For example, with Markdown:
+>>>>>>> 922d678 (add nathan)
 
 We can make words **bold** or *italic*.
 
