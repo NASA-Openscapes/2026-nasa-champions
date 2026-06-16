@@ -1,3 +1,10 @@
+# Table of Contents
+- [GitHub practice from the browser](#github-practice-from-the-browser)
+  * [Task 1: Commit an edit from the browser](#task-1-commit-an-edit-from-the-browser)
+  * [Task 2: Practice Markdown](#task-2-practice-markdown)
+    + [We can make headers](#we-can-make-headers)
+  * [Notes](#notes)
+
 # GitHub practice from the browser
 
 Working on GitHub.com, we contribute changes through **commits**. You'll practice creating several commits by making small edits to a file, writing commit messages, and committing changes to see them posted nicely online to communicate our work. You'll practice with the file with your name on it; everyone has their own file to practice with. 
@@ -12,15 +19,15 @@ Finally, we will commit these edits to GitHub. To do this, press the green "Comm
 
 Note: In the browser, GitHub will suggest "Update file.md" as the commit message. But you can be more descriptive - practice writing commit messages that help you remember detail about what you changed.
 
-## Task 2: Practice Markdown 
+## Task 2: Practice Markdown
 
-Now let's practice Markdown and commit another edit to this file. 
+Now let's practice Markdown and commit another edit to this file - ✅
 
 This file is written in Markdown, which formats text on the web. To see the Markdown that results in the following formatting, click the pencil icon to edit, or click 'Raw' to inspect it. For example, with Markdown:
 
 We can make words **bold** or *italic*.
 
-### We can make headers.
+### We can make headers
 
 We can make lists – *note that lists need an empty line before list items!*
 
