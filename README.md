@@ -28,7 +28,7 @@ of the agendas.
 |--------------------|------------------------|---------------------|
 | 1\. Openscapes mindset | [mindset](https://openscapes.github.io/series/mindset), [better science for future us](https://openscapes.github.io/series/core-lessons/guest-instructors/better-science-2026-06-03.html#/title-slide) by Dr. Ian Carroll (OB.DAAC) | [week 1](https://openscapes.github.io/booklet/reflect.html) |
 | 2\. GitHub for publishing & project management | [publishing](https://openscapes.github.io/series/github-pub), [project management](https://openscapes.github.io/series/github-issues) |  [week 2](https://openscapes.github.io/booklet/reimagine.html) |
-| 3\. Team culture, and Documenting with Notebooks | [team culture](https://openscapes.github.io/series/team-culture), documenting with notebooks |  [week 3](https://openscapes.github.io/booklet/goals.html) |
+| 3\. Team culture, and Documenting with Notebooks | [team culture](https://openscapes.github.io/series/team-culture), [documenting with notebooks](https://docs.google.com/presentation/d/18I5BI2hwqFWvmKUMTOLuJQR8DUZ_KSF-pOd4gQkzX2E/edit?usp=sharing) |  [week 3](https://openscapes.github.io/booklet/goals.html) |
 | 4\. Metadata for Suborbital, and Pathways |  [metadata for suborbital](https://docs.google.com/presentation/d/1-flozA_ph9tBzqatoOs69lD8NpcfiIZ6VFeP2MDINmk/edit?slide=id.p&pli=1#slide=id.p) by Dr. Rupesh Shrestha (ORNL), [pathways](https://openscapes.github.io/series/pathways.html) |  |
 
 <!---TODO: link to issues labeled 'digest'. 
